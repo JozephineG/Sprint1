@@ -6,8 +6,8 @@ public class AnimalDemo {
 
     public static void main(String[] args) {
         /**
-         * Objects (instances9 representing the animals currently at
-         * HealthyPets. An argument is inputed with their weight and name.
+         * Objects instances representing the animals currently at HealthyPets.
+         * An argument is inputed with their weight and name.
          */
         Animal sixten = new Dog(5000, "sixten");
         Animal dogge = new Dog(10000, "dogge");

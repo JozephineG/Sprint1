@@ -3,8 +3,9 @@ package animal;
 public abstract class Animal implements FoodCalculation {
 
     /**
-     * Insance variable By using a private modifier for the instance variable we
-     * have incapsulated it and in order to access it we need to have a getter.
+     * Instance variable. By using a private modifier for the instance variable
+     * we have incapsulated it and in order to access it we need to have a
+     * getter.
      *
      * @return
      */

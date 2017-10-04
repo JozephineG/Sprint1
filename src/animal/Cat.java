@@ -21,7 +21,6 @@ public class Cat extends Animal {
      * binding due to the fact that it jumps to find the method. In this case it
      * find the method in the subclass. If it would´nt find a method it would
      * result in a compile error.
-     *
      * @return
      */
     @Override

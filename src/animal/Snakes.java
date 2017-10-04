@@ -1,7 +1,7 @@
 package animal;
 
 public class Snakes extends Animal {
-
+    
     /**
      * Instance variable The reason for using final is that it won´t change
      * unless Healthy pets changes its animal food. By using final we also
@@ -17,7 +17,7 @@ public class Snakes extends Animal {
         //As it is super it passes the value on to the superclass
         super(weight, name);
     }
-
+    
     /**
      * POLYMORFISM - This is Polyforism due to the it being overridden
      * (@Override) from the interface method. DYNAMIC BINDING - This is Dynamic

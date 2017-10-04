@@ -14,7 +14,6 @@ public class Dog extends Animal {
         //As it is super it passes the value on to the superclass
         super(weight, name);
     }
-
     /**
      * POLYMORFISM - This is Polyforism due to the it being overridden
      * (@Override) from the interface method. DYNAMIC BINDING - This is Dynamic
